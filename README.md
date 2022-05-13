@@ -1,11 +1,16 @@
-# This is my Optimization project presented to you in Julia with Binder
- 
-To execute the Notebook
-Click the button below and it will launch an interactive Julia environment:
+# Optimization in Julia
+This are ***reproducible Notebooks!*** one uses Pluto and the other Jupyter and both run in a Binder session.
 
+To visit the most up to date proyect click [here](https://gquinche.github.io/Optimization/ConeHull)
+
+To execute the Notebook go to the right corner, this will take a little but download all dependencies.
+
+
+
+For the previous project click in this button
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gquinche/Optimization/HEAD)
 
 Sometimes after theres an error you only need to ***reload*** the page, also when binder gets you to the jupyter hub just start demo.py
-altough this is a longer setup you can just let it run for 5 or 6 minutes and you will get a totally ***reproducible Notebook!***
-Feel free to add issues for corrections to the content of it
+
+Feel free to add issues to the github repo
 
