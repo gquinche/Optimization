@@ -12,5 +12,5 @@ For the previous project click in this button
 
 Sometimes after theres an error you only need to ***reload*** the page, also when binder gets you to the jupyter hub just start demo.py
 
-Feel free to add issues to the github repo
+Feel free to add issues to the github repo.
 
